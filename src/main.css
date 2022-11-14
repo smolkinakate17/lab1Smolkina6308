@@ -85,18 +85,11 @@
   left: 92px;
 }
 
-#rectangle{
-  height: 2px;
-  left: 0px;
-  right: 0px;
-  top: calc(50% - 2px/2);
-  background-color:rgba(0, 0, 0, 0.8);
-  border-radius: 1px;
-}
+
 
 .menu ul li {
   list-style-type: none;
-  margin: 6px 0px; /*расстояние между пунктами по высоте*/
+  margin: 6px 0px;
   padding-left: 1.5rem;
   background-image: url("/assets/icons/rectangle.svg");
   background-position: 0 0;
